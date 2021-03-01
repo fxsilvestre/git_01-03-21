@@ -5,11 +5,4 @@ Cursos da Alura
 Vagrant
 Docker
 Ansible
-Integração Contínua- titulo
-Cursos da Alura
-
-- lista
-Vagrant
-Docker
-Ansible
 Integração Contínua
