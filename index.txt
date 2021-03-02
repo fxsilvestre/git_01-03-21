@@ -1,8 +1,9 @@
 - titulo
-Cursos da Alura
+Lista de cursos de DevOps da Alura
 
 - lista
 Vagrant
 Docker
 Ansible
-Integração Contínua
+Integração Contínua2
+Kubernetes
