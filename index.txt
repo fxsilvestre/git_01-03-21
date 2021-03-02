@@ -2,7 +2,7 @@
 Lista de cursos de DevOps da Alura
 
 - lista
-Vagrant
+Vagrant: Gerenciando máquinas virtuais
 Docker: Criando containers sem dor de cabeça
 Ansible
 Integração Contínua2
